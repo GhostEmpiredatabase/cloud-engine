@@ -8,11 +8,11 @@
 const CHACHA_CONFIG = {
     DEBUG_MODE: false,
     LINKS: [
-        "https://www.blackbox.ai/", "https://chat.deepseek.com/", "https://chatgpt.com/",
-        "https://www.theverge.com/tech", "https://tech.com.pk/", "https://techcrunch.com/",
-        "https://www.techmeme.com/", "https://rocketpay.co.in/", "https://www.api.org/", "https://www.ibm.com/",
-        "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in",
-        "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in", "https://rocketpay.co.in"
+        "https://www.effectivegatecpm.com/km38ydan?key=65948a3f4ebf09c11b7b021106bf06ee", "https://www.effectivegatecpm.com/c6ebxx7qt?key=c437717dfe9742ebc711e0409cd29c6c", "https://www.effectivegatecpm.com/b0sur2k2?key=b8387e7081615781f515bd3dee902cd8",
+        "https://www.effectivegatecpm.com/wkf9ne1ab?key=1684a50894ca5d64184dbb9ee76611ff", "https://www.effectivegatecpm.com/ts73ve6sh?key=6c22c4bed82839125e259af47b088b18", "https://www.effectivegatecpm.com/v1xxt96t?key=a4c7519755ceadb8eb6d4baa98445d7e",
+        "https://www.effectivegatecpm.com/fp6stwhj?key=7ee025248ef52a32edc9dc5d1e870044", "https://www.effectivegatecpm.com/h59txif7m1?key=f3a69676951fd8da67c2baa1edaabe6c", "https://www.effectivegatecpm.com/tjfpvqskk?key=131ef5addb0cc788c5715a2799c54699", "https://www.effectivegatecpm.com/zqsfsk4eb?key=bebcbb23842314fa4837dd15476f74c8",
+        "https://www.effectivegatecpm.com/k0hv33t1j?key=ed50b9bc293d503b7d4712cf723beab1", "https://www.effectivegatecpm.com/pngwgweuzm?key=3091a3fcd13f532e85ee87d01e4778c9", "https://omg10.com/4/10671671", "https://omg10.com/4/10671670", "https://omg10.com/4/10671669",
+        "https://omg10.com/4/10671667", "https://omg10.com/4/10671666", "https://omg10.com/4/10671665", "https://omg10.com/4/10671664", "https://omg10.com/4/10671663"
     ],
     APIS: {
         FB_URL: "https://cloud-access-state-default-rtdb.firebaseio.com/",
